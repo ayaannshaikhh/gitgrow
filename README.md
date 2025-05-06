@@ -1,8 +1,8 @@
 # WIP!
 tech stack:
 
-[X] backend: python (flask)
+- [x] backend: python (flask)
 
-[X] frontend: html and css
+- [x] frontend: html and css
 
-[X] database: mariadb
+- [x] database: mariadb
